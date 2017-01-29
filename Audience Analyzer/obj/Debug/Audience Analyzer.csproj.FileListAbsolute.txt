@@ -1,0 +1,12 @@
+c:\users\marilena\documents\visual studio 2015\Projects\Audience Analyzer\Audience Analyzer\bin\Debug\Audience Analyzer.exe.config
+c:\users\marilena\documents\visual studio 2015\Projects\Audience Analyzer\Audience Analyzer\bin\Debug\Audience Analyzer.exe
+c:\users\marilena\documents\visual studio 2015\Projects\Audience Analyzer\Audience Analyzer\bin\Debug\Audience Analyzer.pdb
+c:\users\marilena\documents\visual studio 2015\Projects\Audience Analyzer\Audience Analyzer\obj\Debug\Audience Analyzer.csprojResolveAssemblyReference.cache
+c:\users\marilena\documents\visual studio 2015\Projects\Audience Analyzer\Audience Analyzer\obj\Debug\Audience_Analyzer.Properties.Resources.resources
+c:\users\marilena\documents\visual studio 2015\Projects\Audience Analyzer\Audience Analyzer\obj\Debug\Audience Analyzer.csproj.GenerateResource.Cache
+c:\users\marilena\documents\visual studio 2015\Projects\Audience Analyzer\Audience Analyzer\obj\Debug\Audience Analyzer.exe
+c:\users\marilena\documents\visual studio 2015\Projects\Audience Analyzer\Audience Analyzer\obj\Debug\Audience Analyzer.pdb
+C:\Users\Marilena\Documents\Visual Studio 2015\Projects\Audience Analyzer\Audience Analyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marilena\Documents\Visual Studio 2015\Projects\Audience Analyzer\Audience Analyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marilena\Documents\Visual Studio 2015\Projects\Audience Analyzer\Audience Analyzer\obj\Debug\Audience_Analyzer.Form1.resources
+C:\Users\Marilena\Documents\Visual Studio 2015\Projects\Audience Analyzer\Audience Analyzer\obj\Debug\Audience_Analyzer.Form2.resources
